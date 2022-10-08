@@ -1,0 +1,53 @@
+body{
+    background-color:rgb(197, 245, 245);
+
+}
+.baslık{
+    border: 2px solid #0093E9;
+    border-radius: 10px;
+    background-color: #0093E9;
+    padding: 5px;
+}
+.baslık:hover{
+    background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+    
+}
+.kutu{
+    margin: 20px;
+    border: 2px solid #0093E9;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 10px;
+    background-color: white;
+    width: 400px;
+}
+.baslık2{
+    text-align: center;
+    font-size: 30px;
+    border: 2px solid #0093E9;
+    border-radius: 10px;
+    background-color: #0093E9;
+    text-decoration: none;
+    font-weight: bolder;
+    color: black;
+    font-weight: bolder;
+}
+.baslık2:hover{
+    background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+}
+.ara{
+    text-decoration: none;
+}
+
+.dolapfoto{
+    margin-left: 70px;
+}
+
+.ranzafoto{
+ margin-left: 40px;
+}
+.iletisim{
+    margin-left: 20px;
+}
